@@ -1,0 +1,1 @@
+inherit_from: ~/dotfiles/.rubocop_competitive.yml
