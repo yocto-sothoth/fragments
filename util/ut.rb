@@ -1,4 +1,4 @@
-# move testcase from atcoder's dropbox zip to oj test dir
+# Unzip and move test cases from Downloads to oj test dir.
 
 require 'fileutils'
 
